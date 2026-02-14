@@ -3,5 +3,13 @@
 version = 4
 
 [[package]]
-name = "homework"
+name = "assignment1"
+version = "0.1.0"
+
+[[package]]
+name = "assignment2"
+version = "0.1.0"
+
+[[package]]
+name = "assignment3"
 version = "0.1.0"
