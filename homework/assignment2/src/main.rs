@@ -48,7 +48,7 @@ loop {
     if j >= numbers.len(){
         break;
     }
-    if numbers[i] > largest{
+    if numbers[j] > largest{
         largest = numbers[j];
     }
      j += 1;
