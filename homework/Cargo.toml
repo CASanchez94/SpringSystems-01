@@ -3,5 +3,5 @@ resolver = "3"
 members = [
     "assignment1",
     "assignment2",
-    "assignment3",
+    "assignment3", "wordfreq",
 ]

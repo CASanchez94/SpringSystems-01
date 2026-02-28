@@ -36,12 +36,12 @@
 // }
 
 
-fn double(x:i32) -> i32{
-// return x * 2;
-let y = 10;
+// fn double(x:i32) -> i32{
+// // return x * 2;
+// let y = 10;
 
-x * 2 * y
-}
+// x * 2 * y
+// }
 
 fn main(){
     
