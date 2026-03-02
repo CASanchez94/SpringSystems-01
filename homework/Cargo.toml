@@ -1,6 +1,6 @@
 [workspace]
 resolver = "3"
-members = [
+members = ["BookCat",
     "assignment1",
     "assignment2",
     "assignment3", "wordfreq",
